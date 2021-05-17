@@ -2,11 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/gawei1995/gawei-1995.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+我的个人网页
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我会分享一些个人的见解和代码，以及书评
 
 ```markdown
 Syntax highlighted code block
