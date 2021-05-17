@@ -6,7 +6,7 @@
 我会分享一些个人的见解和代码，以及书评
 
 ```markdown
-Syntax highlighted code block
+```Syntax highlighted code block
 
 # Header 1
 ## Header 2
