@@ -1,6 +1,5 @@
 ## 欢迎来到gawei-1995的个人网站
 
-你能通过[editor on GitHub](https://github.com/gawei1995/gawei-1995.github.io/edit/gh-pages/index.md)来查看我的网站
 我的个人网页
 ### Markdown
 
