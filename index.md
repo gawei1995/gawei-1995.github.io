@@ -27,6 +27,12 @@
 table th:first-of-type {
     width: 4cm;
 }
+table th:nth-of-type(2) {
+    width: 2cm;
+}
+table th:nth-of-type(3) {
+    width: 3cm;
+}
 table th:nth-of-type(4) {
     width: 150pt;
 }
