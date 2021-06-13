@@ -23,7 +23,17 @@
 
 [Link](url) and ![Image](src)
 ```
-
+<style>
+table th:first-of-type {
+    width: 4cm;
+}
+table th:nth-of-type(4) {
+    width: 150pt;
+}
+table th:nth-of-type(5) {
+    width: 10em;
+}
+</style>
 
 书名 | 作者 | 时间 | 笔记 | 推荐指数
 :-----: | :-----: | :-----: | :----- | :---------: 
