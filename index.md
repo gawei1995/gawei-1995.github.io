@@ -23,24 +23,8 @@
 
 [Link](url) and ![Image](src)
 ```
-<style>
-table th:first-of-type {
-    width: 4cm;
-}
-table th:nth-of-type(2) {
-    width: 2cm;
-}
-table th:nth-of-type(3) {
-    width: 3cm;
-}
-table th:nth-of-type(4) {
-    width: 150pt;
-}
-table th:nth-of-type(5) {
-    width: 10em;
-}
-</style>
 
+<style> table th:first-of-type { width: 100px; } </style>
  书名 | 作者 | 时间 |&nbsp; &nbsp;笔记 | 推荐指数 
 :-----: | :-----: | :-----: | :----- | :------: 
 暗知识：机器认知如何颠覆商业和社会 | 王维嘉 | 2021.04 | 适合人工智能投资者初探，机器学习章节不适合技术人员读，过于基础，但是作者对于人工智能赋能的主要行业理解深刻，有助于领域理解和思路拓宽 | &nbsp;:star: :star: :star: :star: &nbsp;
